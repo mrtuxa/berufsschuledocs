@@ -1,0 +1,1 @@
+#define addiere(a,b) (a+b)
