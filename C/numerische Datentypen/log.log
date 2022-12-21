@@ -1,0 +1,10 @@
+char: 8
+short: 16
+unsigned short: 16
+int: 32
+unsigned int: 32
+long: 64
+long long: 64
+float: 32
+double: 64
+long double: 128
