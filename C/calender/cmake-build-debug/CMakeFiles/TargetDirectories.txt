@@ -1,0 +1,3 @@
+/home/mrtuxa/CLionProjects/calender/cmake-build-debug/CMakeFiles/calender.dir
+/home/mrtuxa/CLionProjects/calender/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mrtuxa/CLionProjects/calender/cmake-build-debug/CMakeFiles/rebuild_cache.dir
