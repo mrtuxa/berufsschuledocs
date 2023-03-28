@@ -19,47 +19,38 @@
     <summary>Merkmale</summary>
     <br>
     <ul>
-        <li>
             <details>
                 <summary>Pair-Programming</summary>
                 <br>
                 Zwei Entwickler arbeiten gemeinsam an einem Code
             </details>
             <br>
-        </li>
-        <li>
             <details>
                 <summary>Test-Driven Development (TDD)</summary>
                 <br>
                 Programmierung basierend auf automatisierten Tests.
             </details>
             <br>
-        </li>
-        <li>
             <details>
                 <summary>Continuous Integration (CI)</summary>
                 <br>
                 Automatische Integration von Code-Änderungen.
             </details>
             <br>
-        </li>
-        <li>
             <details>
                 <summary>Continuous Delivery (CD)</summary>
                 <br>
                 Automatische Bereitstellung von Software-Updates.
             </details>
             <br>
-        </li>
-        <li>
             <details>
                 <summary>Kundenorientierung</summary>
                 <br>
                 Kundenwünsche und -anforderungen sind zentral für den Entwicklungsprozess.
             </details>
             <br>
-        </li>
     </ul>
+</details>
 
 
 
