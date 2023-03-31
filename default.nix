@@ -1,7 +1,7 @@
 with import <nixpkgs> {};
 
 stdenv.mkDerivation {
-  name = "my-app";
+  name = "berufsschule";
   src = ./.;
 
   buildInputs = [ boost poco ];
